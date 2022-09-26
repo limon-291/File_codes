@@ -1,4 +1,4 @@
-// Student nam id cgpa file diya input koira arekta file e output likhbi + terminal e print korbi
+
 
 #include<stdio.h>
 #include<stdlib.h>
